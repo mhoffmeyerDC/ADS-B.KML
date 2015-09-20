@@ -1,2 +1,4 @@
 # ADS-B.KML
-Connect to a mysql database with dump1090 ads-b data and create a kml file with php
+Creates Google KML from a mysql database
+
+* ADS-B data from [dump1090 with mysql support](http://lee.smallbone.com/2014/03/ads-b_via_dvb-t/) 
